@@ -1,0 +1,5 @@
+Enter a integer: 1 is odd number.
+Enter a integer: 4 is even number.
+Enter a integer: 5 is multiple of 5.
+Enter a integer: 8 is even number.
+Enter a integer: 10 is multiple of 5.
