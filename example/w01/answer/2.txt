@@ -1,0 +1,5 @@
+Input two integers: 0 + 0 = 0
+Input two integers: 1 + 2 = 3
+Input two integers: -1 + 1 = 0
+Input two integers: 100 + 1000 = 1100
+Input two integers: -100 + -1000 = -1100
