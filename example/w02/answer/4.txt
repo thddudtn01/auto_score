@@ -1,0 +1,10 @@
+Enter two integers: Before: a = 2, b = 3
+After: a = 3, b = 2
+Enter two integers: Before: a = 0, b = 0
+After: a = 0, b = 0
+Enter two integers: Before: a = 1, b = 2
+After: a = 2, b = 1
+Enter two integers: Before: a = -1, b = 1
+After: a = 1, b = -1
+Enter two integers: Before: a = 10, b = 100
+After: a = 100, b = 10

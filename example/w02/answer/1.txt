@@ -1,0 +1,5 @@
+Enter a degree in Fahrenheit: 97.0 degrees Fahrenheit is 36.1 degrees Celsius.
+Enter a degree in Fahrenheit: 122.0 degrees Fahrenheit is 50.0 degrees Celsius.
+Enter a degree in Fahrenheit: 32.0 degrees Fahrenheit is 0.0 degrees Celsius.
+Enter a degree in Fahrenheit: 100.1 degrees Fahrenheit is 37.8 degrees Celsius.
+Enter a degree in Fahrenheit: -100.0 degrees Fahrenheit is -73.3 degrees Celsius.

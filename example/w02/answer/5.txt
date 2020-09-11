@@ -1,0 +1,5 @@
+Enter a character: ASCII code of character 'a' is 97.
+Enter a character: ASCII code of character 'z' is 122.
+Enter a character: ASCII code of character '1' is 49.
+Enter a character: ASCII code of character '!' is 33.
+Enter a character: ASCII code of character '\' is 92.
