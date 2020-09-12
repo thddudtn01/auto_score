@@ -1,25 +1,5 @@
-Enter two integers: result:
-2 + 3 = 5
-2 - 3 = -1
-2 * 3 = 6
-2 / 3 = 0.667
-Enter two integers: result:
-1 + 0 = 1
-1 - 0 = 1
-1 * 0 = 0
-1 / 0 = inf
-Enter two integers: result:
-1 + 1 = 2
-1 - 1 = 0
-1 * 1 = 1
-1 / 1 = 1.000
-Enter two integers: result:
--1 + 1 = 0
--1 - 1 = -2
--1 * 1 = -1
--1 / 1 = -1.000
-Enter two integers: result:
-0 + 0 = 0
-0 - 0 = 0
-0 * 0 = 0
-0 / 0 = -nan
+Enter a integer: 
+Enter a integer: 
+Enter a integer: 3 
+Enter a integer: 3 6 9 
+Enter a integer: 3 6 9 12 15 18 21 24 27 
