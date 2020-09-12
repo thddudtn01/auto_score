@@ -1,20 +1,15 @@
-Enter a integer: 
-decimal: 1
+Enter a integer: decimal: 1
 octal: 1
 hexadecimal: 1
-Enter a integer: 
-decimal: 10
+Enter a integer: decimal: 10
 octal: 12
 hexadecimal: a
-Enter a integer: 
-decimal: 15
+Enter a integer: decimal: 15
 octal: 17
 hexadecimal: f
-Enter a integer: 
-decimal: 100
+Enter a integer: decimal: 100
 octal: 144
 hexadecimal: 64
-Enter a integer: 
-decimal: 1024
+Enter a integer: decimal: 1024
 octal: 2000
 hexadecimal: 400
