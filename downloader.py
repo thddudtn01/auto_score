@@ -1,7 +1,5 @@
-login={
-    "id" : "yourID",
-    "pw" : "yourPW"
-}
+import loginKey
+login = loginKey.data
 
 week = 'w01'
 target_str = week + '_201'
@@ -16,6 +14,7 @@ import os
 from selenium import webdriver
 from pyvirtualdisplay import Display
 
+os.system("rm -r ./source/*")
 option = webdriver.ChromeOptions()
 option.add_experimental_option("prefs", {
     "download.default_directory": downloadPath
@@ -36,7 +35,7 @@ time.sleep(sleeptime)
 driver.find_element_by_name('username').send_keys(login.get("id"))
 driver.find_element_by_name('password').send_keys(login.get("pw"))
 driver.find_element_by_xpath('//*[@id="login"]/div/div[5]/input[2]').click()
-time.sleep(3)
+time.sleep(5)
 
 html = driver.page_source
 soup = BeautifulSoup(html, 'html5lib')
@@ -46,13 +45,18 @@ for para in all_paragraph:
     if target_str in str(para):
         cnt += 1
         href = para.get('href')
-        print(href)
+        #print(href)
         r = driver.get(str(href))
 
 print("parsed count : " + str(cnt))
+cnt = 0
 
 for anyFile in os.listdir("./source/"):
     if ".tar" in str(anyFile):
-        os.system("tar -xvf ./source/" + anyFile + " -C ./source/")
+        #print("processing " + str(anyFile))
+        os.system("tar -xvf ./source/" + anyFile + " -C ./source/ > /dev/null")
         time.sleep(0.1)
-        os.system("rm ./source/" + anyFile)
+        os.system("rm ./source/" + anyFile + " > /dev/null")
+        cnt += 1
+
+print("decompress count : " + str(cnt))
