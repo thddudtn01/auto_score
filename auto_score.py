@@ -24,9 +24,11 @@ for StuID in outputDir:
     scoreD[StuID] = {}
     for i in range(1,10):
         answerFile = "./answer/" + str(i) + ".txt"
-        if not os.path.isfile(answerFile): break
+        if not os.path.isfile(answerFile): continue
         outputFile = "./output/" + StuID + "/" + str(i) + ".txt"
-        if not os.path.isfile(outputFile): break
+        if not os.path.isfile(outputFile):
+            scoreD[StuID][i] = 0
+            continue
         if cmp(answerFile, outputFile):
             scoreD[StuID][i] = 1
         else:
