@@ -1,10 +1,10 @@
-answer/
+/answer/
 source/
-input/
-output/
+/input/
+/output/
 exec/
-chromedriver/
-copyresult.txt/
+chromedriver
+copyresult.txt
 loginKey.*
 moss.pl
 result
