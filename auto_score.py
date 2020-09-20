@@ -38,8 +38,11 @@ result = open("./result", 'w')
 resultStr = ""
 for StuID, StuD in scoreD.items():
     resultStr += str(StuID)
+    sumScore = 0
     for number, score in StuD.items():
         resultStr += " " + str(score)
+        sumScore += score
+    resultStr += " " + str(sumScore)
     resultStr += "\n"
 
 result.write(resultStr)
