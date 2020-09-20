@@ -1,0 +1,5 @@
+Enter the number of items that cost 100won : Enter the number of items that cost 2000won : Enter the number of items that cost 6000won : Enter the amount of money you paid : The change is 39700 won.
+Enter the number of items that cost 100won : Enter the number of items that cost 2000won : Enter the number of items that cost 6000won : Enter the amount of money you paid : The change is 0 won.
+Enter the number of items that cost 100won : Enter the number of items that cost 2000won : Enter the number of items that cost 6000won : Enter the amount of money you paid : The change is -1900 won.
+Enter the number of items that cost 100won : Enter the number of items that cost 2000won : Enter the number of items that cost 6000won : Enter the amount of money you paid : The change is -10000 won.
+Enter the number of items that cost 100won : Enter the number of items that cost 2000won : Enter the number of items that cost 6000won : Enter the amount of money you paid : The change is -20100 won.

@@ -1,0 +1,25 @@
+This program calculates of the height of a pyramid.
+Input the distance from an observer to the shadow of a stick (x_0):
+Input the distance from an observer to the shadow of the pyramid (x_1):
+Input the height of the stick (H_0):
+The height of the pyramid is 146.5
+This program calculates of the height of a pyramid.
+Input the distance from an observer to the shadow of a stick (x_0):
+Input the distance from an observer to the shadow of the pyramid (x_1):
+Input the height of the stick (H_0):
+The height of the pyramid is 1.0
+This program calculates of the height of a pyramid.
+Input the distance from an observer to the shadow of a stick (x_0):
+Input the distance from an observer to the shadow of the pyramid (x_1):
+Input the height of the stick (H_0):
+The height of the pyramid is 0.7
+This program calculates of the height of a pyramid.
+Input the distance from an observer to the shadow of a stick (x_0):
+Input the distance from an observer to the shadow of the pyramid (x_1):
+Input the height of the stick (H_0):
+The height of the pyramid is -6.0
+This program calculates of the height of a pyramid.
+Input the distance from an observer to the shadow of a stick (x_0):
+Input the distance from an observer to the shadow of the pyramid (x_1):
+Input the height of the stick (H_0):
+The height of the pyramid is 0.0

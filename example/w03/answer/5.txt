@@ -1,0 +1,9 @@
+Enter a : Enter b : Enter c : There are two different root.
+x1 = -3.00, x2 = 1.00
+Enter a : Enter b : Enter c : There is multiple root.
+x = -1.00
+Enter a : Enter b : Enter c : There are two different root.
+x1 = -3.00, x2 = 1.00
+Enter a : Enter b : Enter c : There is no root.
+Enter a : Enter b : Enter c : There are two different root.
+x1 = -2.00, x2 = 2.00
