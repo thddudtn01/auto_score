@@ -1,7 +1,7 @@
 import loginKey
 login = loginKey.data
 
-week = 'w01'
+week = 'w02'
 target_str = week + '_201'
 driverPath = './chromedriver'
 downloadPath = '/home/yssong/auto_score/source/'
@@ -56,7 +56,8 @@ for anyFile in os.listdir("./source/"):
         #print("processing " + str(anyFile))
         os.system("tar -xvf ./source/" + anyFile + " -C ./source/ > /dev/null")
         time.sleep(0.1)
-        os.system("rm ./source/" + anyFile + " > /dev/null")
         cnt += 1
+time.sleep(1.0)
+os.system("rm ./source/*.tar > /dev/null")
 
 print("decompress count : " + str(cnt))
