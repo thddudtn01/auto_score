@@ -40,24 +40,26 @@ time.sleep(5)
 html = driver.page_source
 soup = BeautifulSoup(html, 'html5lib')
 all_paragraph = soup.find_all('a')
-cnt = 0
+Pcnt = 0
 for para in all_paragraph:
     if target_str in str(para):
-        cnt += 1
+        Pcnt += 1
         href = para.get('href')
         #print(href)
         r = driver.get(str(href))
 
-print("parsed count : " + str(cnt))
-cnt = 0
-
-for anyFile in os.listdir("./source/"):
-    if ".tar" in str(anyFile):
-        #print("processing " + str(anyFile))
-        os.system("tar -xvf ./source/" + anyFile + " -C ./source/ > /dev/null")
-        time.sleep(0.1)
-        cnt += 1
+print("parsed count : " + str(Pcnt))
+Dcnt = 0
+while Dcnt < Pcnt:
+    Dcnt = 0
+    for anyFile in os.listdir("./source/"):
+        if ".tar" in str(anyFile):
+            #print("processing " + str(anyFile))
+            os.system("tar -xvf ./source/" + anyFile + " -C ./source/ > /dev/null")
+            time.sleep(0.1)
+            Dcnt += 1
+    print("decompress count : " + str(Dcnt))
+    if Dcnt < Pcnt:
+        print("decompressing failed. tried again.")
 time.sleep(1.0)
 os.system("rm ./source/*.tar > /dev/null")
-
-print("decompress count : " + str(cnt))
