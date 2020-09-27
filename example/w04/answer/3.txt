@@ -1,0 +1,5 @@
+Enter a integer number: "sum" is 4
+Enter a integer number: "sum" is 1540
+Enter a integer number: "sum" is 5984
+Enter a integer number: "sum" is 0
+Enter a integer number: "sum" is 0

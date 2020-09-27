@@ -1,0 +1,5 @@
+Input two integer: Input operation: 5 / 7 = 0
+Input two integer: Input operation: 0 + 0 = 0
+Input two integer: Input operation: 10 * 24 = 240
+Input two integer: Input operation: 11 - -12 = 23
+Input two integer: Input operation: -10 - -100 = 90
