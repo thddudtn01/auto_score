@@ -21,6 +21,6 @@ if inputTxt != False:
         line = inputTxt.readline().rstrip("\n")
         if not line: break
 
-    inputData = line.split(" ")
+    inputData = line.split("|")
     for data in inputData:
         print(data)
