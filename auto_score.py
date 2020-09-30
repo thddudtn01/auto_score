@@ -36,8 +36,23 @@ for StuID in outputDir:
 
 result = open("./result", 'w')
 resultStr = ""
+
+StuCode = {}
+if os.path.isfile("./student_code"):
+    id_file = open("./student_code", 'r')
+    while True:
+        line = id_file.readline().rstrip('\n')
+        if not line: break
+        lineData = line.split(' ')
+        StuCode[lineData[0]] = lineData[1]
+    id_file.close()
+
+
 for StuID, StuD in scoreD.items():
-    resultStr += str(StuID)
+    if os.path.isfile("./student_code") and StuID in StuCode.keys():
+        resultStr += str(StuCode[StuID])
+    else:
+        resultStr += str(StuID)
     sumScore = 0
     for number, score in StuD.items():
         resultStr += " " + str(score)
