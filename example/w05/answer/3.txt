@@ -1,0 +1,10 @@
+Input two integers: greatest common divisor is 12.
+least common multiple is 72.
+Input two integers: greatest common divisor is 2.
+least common multiple is 60.
+Input two integers: greatest common divisor is 1.
+least common multiple is 110.
+Input two integers: greatest common divisor is 5.
+least common multiple is 5.
+Input two integers: greatest common divisor is 1.
+least common multiple is 1.

@@ -1,0 +1,5 @@
+Input two integers: binomial coefficient is 1.
+Input two integers: binomial coefficient is 6.
+Input two integers: binomial coefficient is 45.
+Input two integers: binomial coefficient is 252.
+Input two integers: binomial coefficient is 1.

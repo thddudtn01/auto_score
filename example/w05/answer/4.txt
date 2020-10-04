@@ -1,0 +1,5 @@
+input two float: input two float: input two float: There is a triangle
+input two float: input two float: input two float: There is a triangle
+input two float: input two float: input two float: There is a triangle
+input two float: input two float: input two float: There is no triagnle
+input two float: input two float: input two float: There is no triagnle

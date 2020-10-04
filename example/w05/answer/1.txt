@@ -1,0 +1,5 @@
+Enter a integer: number at 5 is 5.
+Enter a integer: number at 10 is 55.
+Enter a integer: number at 20 is 6765.
+Enter a integer: number at 30 is 832040.
+Enter a integer: number at 40 is 102334155.
