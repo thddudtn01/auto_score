@@ -1,5 +1,5 @@
-input two integers: input two integers: input two integers: There is a triangle.
-input two integers: input two integers: input two integers: There is a triangle.
-input two integers: input two integers: input two integers: There is a triangle.
-input two integers: input two integers: input two integers: There is no triangle.
-input two integers: input two integers: input two integers: There is no triangle.
+Input two integers: Input two integers: Input two integers: There is a triangle.
+Input two integers: Input two integers: Input two integers: There is a triangle.
+Input two integers: Input two integers: Input two integers: There is a triangle.
+Input two integers: Input two integers: Input two integers: There is no triangle.
+Input two integers: Input two integers: Input two integers: There is no triangle.
