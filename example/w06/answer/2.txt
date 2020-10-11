@@ -1,0 +1,5 @@
+Enter a random seed integer: total movement: 1096
+Enter a random seed integer: total movement: 1096
+Enter a random seed integer: total movement: 747
+Enter a random seed integer: total movement: 1056
+Enter a random seed integer: total movement: 717

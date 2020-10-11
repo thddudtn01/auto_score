@@ -1,0 +1,5 @@
+Enter an unsigned integer: result: 0000 0000 0000 0000 0000 0000 0000 0001
+Enter an unsigned integer: result: 0000 0000 0000 0000 0000 0011 1111 1111
+Enter an unsigned integer: result: 0000 0000 0000 0000 0011 0000 0011 1001
+Enter an unsigned integer: result: 0000 0101 1111 0101 1110 0000 1111 1111
+Enter an unsigned integer: result: 0000 0000 0000 0000 0000 0000 0000 0000
