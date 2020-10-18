@@ -1,0 +1,10 @@
+Enter a string: reversed string: madamaimadam
+This string is not a palindrome
+Enter a string: reversed string: wasitacatisaw
+This string is a palindrome
+Enter a string: reversed string: ABBA
+This string is a palindrome
+Enter a string: reversed string: dlroWolleH
+This string is not a palindrome
+Enter a string: reversed string: +AsiedargruoY
+This string is not a palindrome

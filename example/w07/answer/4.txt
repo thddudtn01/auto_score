@@ -1,0 +1,15 @@
+Enter a random seed: 2 x + 8 y = 6
+1 x + 8 y = 8
+x = -2.000, y = 1.250
+Enter a random seed: 7 x + 2 y = 1
+9 x + 9 y = 4
+x = 0.022, y = 0.422
+Enter a random seed: 4 x + 5 y = 7
+1 x + 7 y = 5
+x = 1.043, y = 0.565
+Enter a random seed: 8 x + 6 y = 8
+2 x + 9 y = 5
+x = 0.700, y = 0.400
+Enter a random seed: 8 x + 6 y = 6
+4 x + 1 y = 2
+x = 0.375, y = 0.500

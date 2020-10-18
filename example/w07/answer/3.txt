@@ -1,0 +1,5 @@
+Input a string: Hi,World!Hello
+Input a string: abcdefghi
+Input a string: 123456789
+Input a string: 1a2b3c4d
+Input a string: a

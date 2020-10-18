@@ -1,0 +1,5 @@
+Input string: Input mode: HELLO WORLD!
+Input string: Input mode: hello world!
+Input string: Input mode: Hello World!
+Input string: Input mode: HELLO WWORLD!
+Input string: Input mode: hello wworld!
