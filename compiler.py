@@ -1,5 +1,6 @@
 import os
 import shutil
+import glob
 
 option = " -lm"
 
@@ -23,7 +24,11 @@ for StuID in root:
     for codeDir in StuDir:
         DestFile = "./exec/" + StuID + "/" + codeDir + ".out "
         TargetFile = "./source/" + StuID + ("/" + codeDir)*2 + ".c"
+        files = glob.glob("./source/" + StuID + "/" + codeDir + "/*.c")
+        TargetFiles = ""
+        for i in range(0, len(files)):
+            TargetFiles = TargetFiles + " " + files[i]
 
         if os.path.isfile(TargetFile):
-            os.system("gcc -o " + DestFile + TargetFile + option)
+            os.system("gcc -o " + DestFile + TargetFiles + option)
       
