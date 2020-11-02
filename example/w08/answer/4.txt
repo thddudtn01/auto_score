@@ -1,0 +1,5 @@
+Input string: Output string: oosgnuoymaiiH
+Input string: Output string: hgfedcba
+Input string: Output string: 012345678901
+Input string: Output string: sulpAsiedargruoY
+Input string: Output string: YuorgradeisAplus

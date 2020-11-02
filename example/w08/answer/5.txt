@@ -1,0 +1,5 @@
+Enter unsigned int value: You entered: LOVE
+Enter unsigned int value: You entered: MAIN
+Enter unsigned int value: You entered: VOID
+Enter unsigned int value: You entered: char
+Enter unsigned int value: You entered: SONG

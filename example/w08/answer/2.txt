@@ -1,0 +1,61 @@
+Enter name of student: Enter John's score of Math: Enter John's score of English: Enter John's score of Science: ----------------------------------------
+Enter name of student: Enter Song's score of Math: Enter Song's score of English: Enter Song's score of Science: ----------------------------------------
+Enter name of student: Done.
+
+No.       Name      Math      English   Science   Total     Average
+0         John      2         1         3         6         2.0
+1         Song      5         2         4         11        3.7
+Enter name of student: Enter Kim's score of Math: Enter Kim's score of English: Enter Kim's score of Science: ----------------------------------------
+Enter name of student: Enter Park's score of Math: Enter Park's score of English: Enter Park's score of Science: ----------------------------------------
+Enter name of student: Enter Sim's score of Math: Enter Sim's score of English: Enter Sim's score of Science: ----------------------------------------
+Enter name of student: Done.
+
+No.       Name      Math      English   Science   Total     Average
+0         Kim       10        20        40        70        23.3
+1         Park      20        10        5         35        11.7
+2         Sim       100       50        0         150       50.0
+Enter name of student: Enter John's score of Math: Enter John's score of English: Enter John's score of Science: ----------------------------------------
+Enter name of student: Enter Song's score of Math: Enter Song's score of English: Enter Song's score of Science: ----------------------------------------
+Enter name of student: Enter Kim's score of Math: Enter Kim's score of English: Enter Kim's score of Science: ----------------------------------------
+Enter name of student: Enter Park's score of Math: Enter Park's score of English: Enter Park's score of Science: ----------------------------------------
+Enter name of student: Enter Sim's score of Math: Enter Sim's score of English: Enter Sim's score of Science: ----------------------------------------
+Enter name of student: Done.
+
+No.       Name      Math      English   Science   Total     Average
+0         John      2         1         3         6         2.0
+1         Song      5         2         4         11        3.7
+2         Kim       10        20        40        70        23.3
+3         Park      20        10        5         35        11.7
+4         Sim       100       50        0         150       50.0
+Enter name of student: Enter KIMKIM's score of Math: Enter KIMKIM's score of English: Enter KIMKIM's score of Science: ----------------------------------------
+Enter name of student: Enter John's score of Math: Enter John's score of English: Enter John's score of Science: ----------------------------------------
+Enter name of student: Enter Song's score of Math: Enter Song's score of English: Enter Song's score of Science: ----------------------------------------
+Enter name of student: Enter Kim's score of Math: Enter Kim's score of English: Enter Kim's score of Science: ----------------------------------------
+Enter name of student: Enter Park's score of Math: Enter Park's score of English: Enter Park's score of Science: ----------------------------------------
+Enter name of student: Enter Sim's score of Math: Enter Sim's score of English: Enter Sim's score of Science: ----------------------------------------
+Enter name of student: Done.
+
+No.       Name      Math      English   Science   Total     Average
+0         KIMKIM    0         0         0         0         0.0
+1         John      2         1         3         6         2.0
+2         Song      5         2         4         11        3.7
+3         Kim       10        20        40        70        23.3
+4         Park      20        10        5         35        11.7
+5         Sim       100       50        0         150       50.0
+Enter name of student: Enter Lee's score of Math: Enter Lee's score of English: Enter Lee's score of Science: ----------------------------------------
+Enter name of student: Enter KIMKIM's score of Math: Enter KIMKIM's score of English: Enter KIMKIM's score of Science: ----------------------------------------
+Enter name of student: Enter John's score of Math: Enter John's score of English: Enter John's score of Science: ----------------------------------------
+Enter name of student: Enter Song's score of Math: Enter Song's score of English: Enter Song's score of Science: ----------------------------------------
+Enter name of student: Enter Kim's score of Math: Enter Kim's score of English: Enter Kim's score of Science: ----------------------------------------
+Enter name of student: Enter Park's score of Math: Enter Park's score of English: Enter Park's score of Science: ----------------------------------------
+Enter name of student: Enter Sim's score of Math: Enter Sim's score of English: Enter Sim's score of Science: ----------------------------------------
+Enter name of student: Done.
+
+No.       Name      Math      English   Science   Total     Average
+0         Lee       100       20        40        160       53.3
+1         KIMKIM    0         0         0         0         0.0
+2         John      2         1         3         6         2.0
+3         Song      5         2         4         11        3.7
+4         Kim       10        20        40        70        23.3
+5         Park      20        10        5         35        11.7
+6         Sim       100       50        0         150       50.0

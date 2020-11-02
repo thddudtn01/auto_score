@@ -1,0 +1,5 @@
+Enter point's x, y value: Enter point's x, y value: Length of line is 1.4
+Enter point's x, y value: Enter point's x, y value: Length of line is 5.0
+Enter point's x, y value: Enter point's x, y value: Length of line is 50.0
+Enter point's x, y value: Enter point's x, y value: Length of line is 3.2
+Enter point's x, y value: Enter point's x, y value: Length of line is 2.2
