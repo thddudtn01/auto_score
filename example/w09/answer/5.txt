@@ -1,0 +1,7 @@
+Enter number of figure's point: This figure is not polygon.
+Enter number of figure's point: This figure is not polygon.
+Enter number of figure's point: This figure is not polygon.
+Enter number of figure's point: number of polygon's side is 3.
+number of polygon's diagonal is 0.
+Enter number of figure's point: number of polygon's side is 4.
+number of polygon's diagonal is 2.

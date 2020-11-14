@@ -1,0 +1,25 @@
+first character: Binary expression : 0000 0000 0000 0000 0000 0000 0100 1100
+second character: Binary expression : 0000 0000 0000 0000 0100 1111 0100 1100
+third character: Binary expression : 0000 0000 0101 0110 0100 1111 0100 1100
+fourth character: Binary expression : 0100 0101 0101 0110 0100 1111 0100 1100
+You entered: 1163284300
+first character: Binary expression : 0000 0000 0000 0000 0000 0000 0100 1101
+second character: Binary expression : 0000 0000 0000 0000 0100 0001 0100 1101
+third character: Binary expression : 0000 0000 0100 1001 0100 0001 0100 1101
+fourth character: Binary expression : 0100 1110 0100 1001 0100 0001 0100 1101
+You entered: 1313423693
+first character: Binary expression : 0000 0000 0000 0000 0000 0000 0101 0110
+second character: Binary expression : 0000 0000 0000 0000 0100 1111 0101 0110
+third character: Binary expression : 0000 0000 0100 1001 0100 1111 0101 0110
+fourth character: Binary expression : 0100 0100 0100 1001 0100 1111 0101 0110
+You entered: 1145655126
+first character: Binary expression : 0000 0000 0000 0000 0000 0000 0110 0011
+second character: Binary expression : 0000 0000 0000 0000 0110 1000 0110 0011
+third character: Binary expression : 0000 0000 0110 0001 0110 1000 0110 0011
+fourth character: Binary expression : 0111 0010 0110 0001 0110 1000 0110 0011
+You entered: 1918986339
+first character: Binary expression : 0000 0000 0000 0000 0000 0000 0101 0011
+second character: Binary expression : 0000 0000 0000 0000 0100 1111 0101 0011
+third character: Binary expression : 0000 0000 0100 1110 0100 1111 0101 0011
+fourth character: Binary expression : 0100 0111 0100 1110 0100 1111 0101 0011
+You entered: 1196314451

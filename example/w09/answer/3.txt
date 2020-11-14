@@ -1,0 +1,19 @@
+Input unsigned char: Binary expression : 1100 0100
+Input direction and shift size: Binary expression : 0100 1100
+Input direction and shift size: Binary expression : 1000 1001
+Input direction and shift size: Input unsigned char: Binary expression : 0000 0001
+Input direction and shift size: Binary expression : 0000 0100
+Input direction and shift size: Binary expression : 0000 0010
+Input direction and shift size: Input unsigned char: Binary expression : 0000 0001
+Input direction and shift size: Binary expression : 1000 0000
+Input direction and shift size: Binary expression : 0000 0001
+Input direction and shift size: Binary expression : 0000 0100
+Input direction and shift size: Input unsigned char: Binary expression : 1111 1111
+Input direction and shift size: Binary expression : 1111 1111
+Input direction and shift size: Binary expression : 1111 1111
+Input direction and shift size: Binary expression : 1111 1111
+Input direction and shift size: Input unsigned char: Binary expression : 1000 1001
+Input direction and shift size: Binary expression : 0010 0110
+Input direction and shift size: Binary expression : 1000 1001
+Input direction and shift size: Binary expression : 1001 1000
+Input direction and shift size: 

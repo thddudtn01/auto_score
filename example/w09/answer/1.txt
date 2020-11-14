@@ -1,0 +1,5 @@
+Input unsigned char: Binary expression: 0000 0001
+Input unsigned char: Binary expression: 0000 1010
+Input unsigned char: Binary expression: 0110 0100
+Input unsigned char: Binary expression: 1100 0100
+Input unsigned char: Binary expression: 1111 1111

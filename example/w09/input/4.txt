@@ -1,0 +1,5 @@
+LOVE
+MAIN
+VOID
+char
+SONG
