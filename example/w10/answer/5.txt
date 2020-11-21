@@ -1,0 +1,35 @@
+Enter a integer number: now sum = 4
+"sum" is 4
+Enter a integer number: now sum = 4
+now sum = 20
+now sum = 56
+now sum = 120
+now sum = 220
+"sum" is 220
+Enter a integer number: now sum = 4
+now sum = 20
+now sum = 56
+now sum = 120
+now sum = 220
+now sum = 364
+now sum = 560
+now sum = 816
+now sum = 1140
+now sum = 1540
+"sum" is 1540
+Enter a integer number: now sum = 4
+now sum = 20
+now sum = 56
+now sum = 120
+now sum = 220
+now sum = 364
+now sum = 560
+now sum = 816
+now sum = 1140
+now sum = 1540
+now sum = 2024
+now sum = 2600
+now sum = 3276
+now sum = 4060
+now sum = 4960
+"sum" is 4960

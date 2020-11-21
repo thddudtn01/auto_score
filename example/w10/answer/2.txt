@@ -1,0 +1,5 @@
+Input two float: Input operation: Output : 7.00
+Input two float: Input operation: Output : -1.00
+Input two float: Input operation: Output : 12.00
+Input two float: Input operation: Output : 0.00
+Input two float: Input operation: Output : 0.00

@@ -1,0 +1,5 @@
+Input string: I Am C Programmer
+Input string: Your Grade Is A Plus
+Input string: C Language Is So Easy
+Input string: Sdl Is Also Easy
+Input string: Good Luck
