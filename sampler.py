@@ -1,10 +1,14 @@
 import sys
 import os
+import shutil
 
 editor = "2016430018/"
 
 execDir = "./exec/" + editor
 answerDir = "./answer/"
+if os.path.isdir("./answer"):
+    shutil.rmtree("./answer/")
+os.makedirs("./answer")
 
 for i in range(1,10):
     execFile = execDir + str(i) + ".out"

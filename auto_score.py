@@ -32,7 +32,7 @@ for StuID in outputDir:
         if cmp(answerFile, outputFile):
             scoreD[StuID][i] = 1
         else:
-            scoreD[StuID][i] = 0
+            scoreD[StuID][i] = 0.5
 
 result = open("./result", 'w')
 resultStr = ""
@@ -49,10 +49,9 @@ if os.path.isfile("./student_code"):
 
 
 for StuID, StuD in scoreD.items():
+    resultStr += str(StuID)
     if os.path.isfile("./student_code") and StuID in StuCode.keys():
-        resultStr += str(StuCode[StuID])
-    else:
-        resultStr += str(StuID)
+        resultStr += " " + str(StuCode[StuID])
     sumScore = 0
     for number, score in StuD.items():
         resultStr += " " + str(score)
