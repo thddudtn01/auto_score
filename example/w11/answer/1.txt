@@ -1,0 +1,5 @@
+Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): you entered: 1 2 3 4 5
+Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): you entered: 2 4 0 5 1
+Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): you entered: 5 4 3 2 1 0
+Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): Input positive integer (-1 to exit): you entered: 1 1 1 1 1
+Input positive integer (-1 to exit): you entered:
